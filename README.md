@@ -1,4 +1,4 @@
-### Howdy, I'm Josh - aka [Dynamis Development][website] 👋
+### Howdy, I'm Josh - aka [Dynamis Development][website] 🤠
 
 [![Website](https://img.shields.io/website?label=joshua-hall.dev&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](http://joshua-hall.dev/)
 [![https://www.upwork.com/o/profiles/users/~013e4465c7ba054054/](https://img.shields.io/website?label=Upwork&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.upwork.com/o/profiles/users/~013e4465c7ba054054/)
