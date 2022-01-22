@@ -29,15 +29,16 @@
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
+<img align="left" alt="Node.js" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" />
 
 <br />
 <br />
 
 ### Learning:
 
-<img align="left" alt="Node.js" width="26px" src="https://avatars.githubusercontent.com/u/6250754?s=200&v=4" />
+<img align="left" alt="Node.js" width="26px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" />
+<img align="left" alt="Node.js" width="26px" src="https://avatars.githubusercontent.com/u/177543?s=200&v=4" />
 <br />
 <br />
 ---
