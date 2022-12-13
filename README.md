@@ -34,7 +34,7 @@
 <br />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DynamisDevelopment)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=DynamisDevelopment&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Learning:
 
