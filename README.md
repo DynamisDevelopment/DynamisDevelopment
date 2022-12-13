@@ -34,6 +34,8 @@
 <br />
 <br />
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DynamisDevelopment)](https://git.io/streak-stats)
+
 ### Learning:
 
 <img align="left" alt="Node.js" width="26px" src="https://avatars.githubusercontent.com/u/64235328?s=200&v=4" />
