@@ -5,11 +5,7 @@
 
 ## I'm a motorcycling, cat petting, and design illiterate fullstack developer always on the hunt for more challenging projects.
 
-<!-- - 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Focus more on developing for the Cardano blockchain an and creating Blender designs for VR games.
-- ⚡ Fun fact: I love to draw and play guitar / drums -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=DynamisDevelopment&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Connect with me:
 
@@ -34,7 +30,6 @@
 <br />
 <br />
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=DynamisDevelopment&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ### Learning:
 
